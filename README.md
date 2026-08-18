@@ -322,4 +322,4 @@ ferramenta.
 
 ## Autor
 
-Desenvolvido por **(seu nome aqui)** — Tópicos Especiais II, 2026.
+Desenvolvido por **(Luca da Silva Nunes e Natália Fernandes)** — Tópicos Especiais II, 2026.
